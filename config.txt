@@ -1,0 +1,6 @@
+sarverroot=/Tomcat/webapps/webtops2
+bkroot=C:\testbk
+sarveraddress=open www2.center.kawamura.co.jp 2121
+ftpusr=ftpusr
+ftppass=ftpusr
+filename=15-0157.txt
