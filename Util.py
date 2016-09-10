@@ -1,5 +1,5 @@
 # -*- coding:utf-8 -*-
-import Log
+import Log      # Logファイル
 import os.path
 import datetime # datetimeモジュールのインポート
 
